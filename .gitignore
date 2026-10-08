@@ -1,0 +1,14 @@
+# Real DB credentials (never commit)
+config/db.php
+
+# Uploaded files (student photos etc.)
+assets/uploads/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs and temp
+*.log
